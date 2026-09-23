@@ -52,9 +52,3 @@ can be downloaded as a CSV.
 
 **About this model** — the model in use, what it was trained on, its typical error, and its
 limitations.
-
-## A note on what the model is for
-
-It is a student project trained on roughly a hundred sales in three suburbs over twelve months. It
-is a decision support tool, not a valuation, and the About tab in the app lists the cases where it
-should not be trusted.
