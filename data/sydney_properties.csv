@@ -1,0 +1,202 @@
+property_id,suburb,address,property_type,bedrooms,bathrooms,car_spaces,land_size_sqm,internal_area_sqm,sale_price,sale_date,sale_method,days_on_market,distance_to_station_km,agent_description,listing_url,agent_agency
+1,Bondi,2/26 Fletcher Street,Apartment,2,1,0,,,1581000,2026-09-17,Auction,,,,,PPD Real Estate
+2,Bondi,7/28-30 Fletcher Street,Apartment,2,1,1,,,2450000,2026-09-15,Private treaty,,,,,Murray Property
+3,Bondi,1/13 Bennett Street,Apartment,2,1,1,,,1760000,2026-09-08,Auction,,,,,LJ Hooker Bondi Beach
+4,Bondi,402/56A-62 Penkivil Street,Apartment,3,2,2,,,2300000,2026-09-07,Private treaty,,,,,Raine & Horne Double Bay
+5,Bondi,5601/34 Wellington Street,Apartment,2,2,1,,,2600000,2026-09-01,Auction,,,,,McGrath Double Bay
+6,Bondi,8B Castlefield Street,Semi,3,2,1,,,2750000,2026-08-25,Auction,,,,,Sydney Sotheby's International Realty
+7,Bondi,6 Miller Street,House,3,2,3,,,3500000,2026-08-15,Auction,,,,,McGrath Double Bay
+8,Bondi,1 Miller Street,House,5,4,3,307.0,,5400000,2026-08-12,Auction,,,,,Pillinger
+9,Bondi,7/162 Bondi Road,Apartment,1,1,0,,,650000,2026-08-06,Private treaty,,,,,Century 21 Bondi Junction
+10,Bondi,3/38 Flood Street,Apartment,2,1,0,,,1010000,2026-08-06,Auction,,,,,Raine & Horne Double Bay
+11,Bondi,29/41-47 Ocean Street North,Apartment,2,1,1,,,1330000,2026-07-06,Auction,,,,,
+12,Bondi,7/17 Ocean Street North,Apartment,1,1,0,,,946000,2026-06-18,Auction,,,,,Raine & Horne Double Bay
+13,Bondi,7/18-20 Penkivil Street,Apartment,3,2,1,,,2350000,2026-06-18,Auction,,,,,
+14,Bondi,9/27 Castlefield Street,House,2,1,2,,,1520000,2026-06-16,Auction,,,,,LJ Hooker Bondi Beach
+15,Bondi,13/7 Denham Street,Apartment,2,1,1,,,1530000,2026-06-16,Auction,,,,,LJ Hooker Bondi Beach
+16,Bondi,3 Flood Street,House,5,2,1,392.0,,4001000,2026-06-15,Auction,,,,,Raine & Horne Double Bay
+17,Bondi,5 Grove Street,House,4,2,1,,,3850000,2026-06-10,Private treaty,,,,,
+18,Bondi,304/56a-62 Penkivil Street,Apartment,2,2,1,,,2065000,2026-06-10,Auction,,,,,McGrath Maroubra
+19,Bondi,6/36-38 Penkivil Street,Apartment,3,2,1,,,1735000,2026-06-05,Auction,,,,,Raine & Horne Double Bay
+20,Bondi,3/10-12 Fletcher Street,Apartment,2,1,1,,,2000000,2026-06-02,Private treaty,,,,,Biller Property
+21,Bondi,38 Philip Street,House,3,2,0,,,4260000,2026-06-02,Auction,,,,,Raine & Horne Double Bay
+22,Bondi,5/9-11 Ocean Street North,House,2,1,1,,,1445000,2026-05-26,Auction,,,,,LJ Hooker Bondi Beach
+23,Bondi,17/22-28 Wellington Street,Apartment,2,1,1,,,1520000,2026-05-26,Auction,,,,,LJ Hooker Bondi Junction
+24,Bondi,15/240-242 Bondi Road,Apartment,2,1,1,,,1450000,2026-05-22,Private treaty,,,,,LJ Hooker Bondi Beach
+25,Bondi,14 Anglesea Street,House,6,4,1,415.0,,5416000,2026-05-19,Auction,,,,,Raine & Horne Double Bay
+26,Bondi,3/8 Fletcher Street,Apartment,2,1,0,80.0,,1425000,2026-05-14,Private treaty,,,,,Richardson & Wrench Bondi Beach
+27,Bondi,510/212-218 Bondi Road,Apartment,0,1,0,,,595000,2026-05-14,Private treaty,,,,,The Agency
+28,Bondi,43 Dudley Street,House,4,3,1,,,5200000,2026-05-14,Auction,,,,,PPD Real Estate
+29,Bondi,76 Edward Street,House,3,2,1,,,4050000,2026-05-14,Auction,,,,,Ray White Double Bay
+30,Bondi,6/195-199 Bondi Road,Apartment,2,1,0,,,1000000,2026-05-11,Auction,,,,,Raine & Horne Double Bay
+31,Bondi,6101/32 Wellington Street,Apartment,1,1,0,,,1280000,2026-05-11,Auction,,,,,McGrath Double Bay
+32,Bondi,2/278 Birrell Street,Apartment,3,2,1,,,2750000,2026-05-11,Private treaty,,,,,Richardson & Wrench Bondi Beach
+33,Bondi,13/164-166 Bondi Road,Apartment,0,1,1,,,713500,2026-05-08,Auction,,,,,
+34,Bondi,1/104 Anglesea Street,Apartment,2,1,0,,,1225000,2026-05-07,Auction,,,,,Ray White Eastern Beaches
+35,Bondi,68 Anglesea Street,House,3,1,0,291.0,,3260000,2026-05-06,Private treaty,,,,,
+36,Bondi,4/326 Bondi Road,Apartment,2,1,0,,,1465000,2026-05-05,Private treaty,,,,,Ray White Eastern Beaches
+37,Bondi,7/266-268 Bondi Road,Apartment,2,2,2,,,1670000,2026-04-29,Private treaty,,,,,Raine & Horne Double Bay
+38,Bondi,3/19 Imperial Avenue,Apartment,3,2,1,,,2500000,2026-04-29,Auction,,,,,WHITEFOX Paddington
+39,Bondi,9/276 Birrell Street,Apartment,2,1,1,,,1500000,2026-04-28,Private treaty,,,,,Allan Dale Real Estate
+40,Bondi,17/64 Penkivil Street,Apartment,3,2,2,,,2200000,2026-04-24,Auction,,,,,Raine & Horne Double Bay
+41,Bondi,1/24-26 Imperial Avenue,Apartment,2,2,1,1270.0,,1920000,2026-04-23,Auction,,,,,Ray White Double Bay
+42,Bondi,302/212 Bondi Road,Apartment,0,1,1,,,635000,2026-04-21,Private treaty,,,,,The Agency
+43,Bondi,7/276 Birrell Street,Apartment,2,1,1,,,1630000,2026-04-18,Auction,,,,,Allan Dale Real Estate
+44,Bondi,12/211 Old South Head Road,Apartment,2,1,1,,,1130000,2026-04-17,Auction,,,,,Raine & Horne Double Bay
+45,Bondi,6/22a New Street,Apartment,2,1,1,,,1280000,2026-04-17,Private treaty,,,,,PPD Real Estate
+46,Bondi,21/20 Edward Street,Apartment,2,1,1,96.0,,1670000,2026-04-15,Auction,,,,,Century 21 City Quarter
+47,Bondi,11/15 Wellington Street,Apartment,2,1,0,,,1400000,2026-04-14,Auction,,,,,Belle Property Bondi Junction
+48,Bondi,14/318 Bondi Road,Apartment,2,1,0,,,1250000,2026-04-07,Private treaty,,,,,Richardson & Wrench Bondi Beach
+49,Bondi,17/36-38 Penkivil Street,Apartment,3,2,1,2009.0,,2110000,2026-04-03,Auction,,,,,Ray White Eastern Beaches
+50,Bondi,1/307 Bondi Road,Apartment,2,1,1,,,1340000,2026-04-01,Auction,,,,,Ray White Eastern Beaches
+51,Bondi,5/44 Denham Street,Apartment,2,1,1,,,1700000,2026-03-31,Auction,,,,,LJ Hooker Bondi Beach
+52,Bondi,12/35-37 Denham Street,Apartment,2,1,1,1093.0,,1900000,2026-03-27,Auction,,,,,TRG
+53,Bondi,1/8 Flood Street,Apartment,3,2,1,,,1885000,2026-03-27,Auction,,,,,Raine & Horne Double Bay
+54,Bondi,5/241 Old South Head Road,Apartment,2,1,0,,,1200000,2026-03-27,Auction,,,,,BresicWhitney East
+55,Bondi,6/22 Moore Street,Apartment,2,1,0,,,1233000,2026-03-25,Auction,,,,,Raine & Horne Double Bay
+56,Bondi,3/180 Bondi Road,Apartment,0,1,1,,,725000,2026-03-24,Private treaty,,,,,Wolf Property Group
+57,Bondi,3/334 Bondi Road (Access also via Edward St),Apartment,2,2,1,178.0,,2450000,2026-03-18,Auction,,,,,BresicWhitney Balmain
+58,Bondi,16/28 New Street,Apartment,3,2,2,229.0,,2970000,2026-03-16,Private treaty,,,,,Ray White Double Bay
+59,Bondi,10/270 Bondi Road,Apartment,2,2,1,,,1875000,2026-03-13,Auction,,,,,Raine & Horne Double Bay
+60,Bondi,15 Ewell Street,House,3,1,1,,,3150000,2026-03-10,Private treaty,,,,,PPD Real Estate
+61,Bondi,11 Stephen Street,House,3,1,1,,,4100000,2026-03-05,Auction,,,,,Sydney Sotheby's International Realty
+62,Bondi,3/44 Park Parade,Apartment,2,1,1,,,1370000,2026-03-03,Auction,,,,,Hart Estate Agents
+63,Bondi,6409/32 Wellington Street,Apartment,2,2,1,,,2005000,2026-02-24,Private treaty,,,,,McGrath Double Bay
+64,Bondi,31 Dudley Street,House,3,2,1,227.0,,4370000,2026-02-21,Auction,,,,,JK AGENCY
+65,Bondi,8 New Street,House,4,2,0,,,3650000,2026-02-20,Private treaty,,,,,Sydney Sotheby's International Realty
+66,Bondi,5211/34 Wellington Street,Apartment,3,2,2,,,2800000,2026-02-19,Auction,,,,,Ray White Eastern Beaches
+67,Bondi,7/53-55 Bennett Street,Apartment,2,1,1,,,1350000,2026-02-19,Auction,,,,,PPD Real Estate
+68,Bondi,1/22a New Street,Apartment,2,1,0,,,1400000,2026-02-19,Auction,,,,,Ray White Park Coast East
+69,Bondi,8/40 Penkivil Street,Apartment,3,2,1,2939.0,,1920000,2026-02-17,Auction,,,,,Ray White Double Bay
+70,Bondi,2/28-30 Fletcher Street,Apartment,2,2,1,,,2500000,2026-02-16,Auction,,,,,BresicWhitney East
+71,Bondi,2 Denham Street,House,4,3,3,283.0,,6308000,2026-02-16,Auction,,,,,McGrath Double Bay
+72,Bondi,801/212-218 Bondi Road,Apartment,0,1,0,,,560000,2026-02-13,Auction,,,,,
+73,Bondi,6 Jackaman Street,House,4,3,2,509.0,,8725000,2026-02-11,Auction,,,,,PPD Real Estate
+74,Bondi,9/37 Penkivil Street,Apartment,2,1,1,,,1600000,2026-02-11,Auction,,,,,Richardson & Wrench Bondi Beach
+75,Bondi,1/134-136 Bondi Road,Apartment,2,1,0,,,1100000,2026-02-10,Auction,,,,,Raine & Horne Double Bay
+76,Chatswood,31 Kareela Road,House,2,1,0,665.0,,1751000,2026-09-23,Private treaty,,,,,
+77,Chatswood,705/37 Victor Street,Apartment,1,1,1,,,745000,2026-09-03,Private treaty,,,,,DiJones - Chatswood
+78,Chatswood,602/856 Pacific Highway,Apartment,3,1,1,,,1100000,2026-09-01,Private treaty,,,,,
+79,Chatswood,14 Jacques Street,House,3,2,2,505.0,,3290000,2026-08-29,Auction,,,,,Shead Property
+80,Chatswood,24/35-43 Orchard Road,Apartment,1,1,1,,,858400,2026-08-26,Auction,,,,,Belle Property North Shore
+81,Chatswood,11 Crick Street,House,5,3,3,746.0,,6200000,2026-08-21,Auction,,,,,Shead Property
+82,Chatswood,1/9-13 Church Street,Apartment,2,1,1,,,1016500,2026-08-14,Auction,,,,,Raine & Horne Lower North Shore
+83,Chatswood,54/1 Day Street,Apartment,2,2,1,200.0,,1928000,2026-08-13,Private treaty,,,,,Ray White AY Realty Chatswood
+84,Chatswood,1205/1 Cambridge Lane,Apartment,2,2,1,,,1951000,2026-08-11,Private treaty,,,,,Century 21 North Group
+85,Chatswood,619/2a Help Street,Apartment,2,2,1,117.0,,1060000,2026-08-07,Private treaty,,,,,Century 21 Seiwa
+86,Chatswood,806/38C Albert Avenue,Apartment,3,2,2,857.0,,2200000,2026-08-04,Private treaty,,,,,Ray White AY Realty Chatswood
+87,Chatswood,3/8 View Street,Apartment,3,1,0,,,1200000,2026-08-01,Auction,,,,,Ray White AY Realty Chatswood
+88,Chatswood,4 Ranelagh Crescent,House,3,1,1,,,3825000,2026-07-31,Auction,,,,,Forsyth Real Estate
+89,Chatswood,15/96-100 Albert Avenue,Apartment,2,1,1,,,915000,2026-07-29,Private treaty,,,,,Shead Property
+90,Chatswood,5/377 Mowbray Road (rear of block),Apartment,2,2,2,,,892500,2026-07-24,Private treaty,,,,,Ray White AY Realty Chatswood
+91,Chatswood,8/236 Victoria Avenue,Apartment,3,2,2,,,1680000,2026-07-17,Private treaty,,,,,Ray White AY Realty Chatswood
+92,Chatswood,1/4 Sutherland Road,Townhouse,3,2,1,,,1460000,2026-07-16,Private treaty,,,,,
+93,Chatswood,2002/1 Cambridge Lane,Apartment,3,2,2,194.0,,2628000,2026-07-15,Private treaty,,,,,Ray White AY Realty Chatswood
+94,Chatswood,16 Fontaine Street,House,4,2,3,576.0,,3300000,2026-07-15,Auction,,,,,Shead Property
+95,Chatswood,203/58 Hercules Street,Apartment,2,1,1,,,1515000,2026-07-14,Private treaty,,,,,Everest Realty Pty Ltd
+96,Chatswood,5/35-43 Orchard Road,Apartment,3,2,1,,,1742000,2026-07-11,Auction,,,,,Shead Property
+97,Chatswood,8H/8-12 Sutherland Road,Apartment,1,1,1,,,745000,2026-07-08,Auction,,,,,Shead Property
+98,Chatswood,10 Goodchap Road,House,3,2,2,318.0,,2325000,2026-07-07,Auction,,,,,DiJones - Chatswood
+99,Chatswood,5 Johnson Street,House,2,1,3,493.0,,2290000,2026-07-02,Private treaty,,,,,Ray White AY Realty Chatswood
+100,Chatswood,5 Hopetoun Avenue,House,2,1,1,,,2350000,2026-07-01,Auction,,,,,Belle Property North Shore
+101,Chatswood,274 High Street,House,5,3,4,518.0,,3510000,2026-06-30,Private treaty,,,,,DiJones - Willoughby
+102,Chatswood,502/13 Oscar Street,Apartment,3,2,1,,,2450000,2026-06-30,Private treaty,,,,,
+103,Chatswood,9 Mclean Avenue,House,5,3,4,765.0,,4050000,2026-06-27,Auction,,,,,Ray White AY Realty Chatswood
+104,Chatswood,306/18 Freeman Road,Apartment,2,2,1,,,1300000,2026-06-26,Private treaty,,,,,Ray White AY Realty Chatswood
+105,Chatswood,40/18 Jacques Street,Apartment,2,2,2,627.0,,1575000,2026-06-26,Auction,,,,,Ray White AY Realty Chatswood
+106,Chatswood,117 Beaconsfield Road,House,2,1,3,562.0,,2500000,2026-06-25,Private treaty,,,,,Ray White AY Realty Chatswood
+107,Chatswood,233 Mowbray Road,House,3,1,2,380.0,,2420000,2026-06-25,Auction,,,,,Shead Property
+108,Chatswood,8 Karana Place,House,4,2,2,,,2320000,2026-06-23,Private treaty,,,,,DiJones - Chatswood
+109,Chatswood,24/1-3 Eddy Road,Apartment,1,1,1,2219.0,,719000,2026-06-22,Private treaty,,,,,Ray White AY Realty Chatswood
+110,Chatswood,1010/37 Victor Street,Apartment,1,1,1,,,835000,2026-06-22,Private treaty,,,,,DiJones - Chatswood
+111,Chatswood,909/2B Help Street,Apartment,1,1,1,,,800000,2026-06-19,Private treaty,,,,,DiJones - Chatswood
+112,Chatswood,99 Beaconsfield Road,Duplex,5,4,4,614.0,,4220000,2026-06-18,Auction,,,,,Raine&Horne Lindfield
+113,Chatswood,8 Claude Street,House,3,1,2,,,3950000,2026-06-18,Auction,,,,,
+114,Chatswood,4/892-900 Pacific Highway,Apartment,2,1,1,1622.0,,920000,2026-06-17,Private treaty,,,,,Ray White AY Realty Chatswood
+115,Chatswood,2602/2A Help Street,Apartment,2,2,1,,,1717500,2026-06-12,Private treaty,,,,,
+116,Chatswood,6/44 View Street,Apartment,2,1,1,,,890200,2026-06-11,Auction,,,,,Shead Property
+117,Chatswood,11 Hercules Street,House,4,1,2,1067.0,,4600000,2026-06-06,Auction,,,,,Forsyth Real Estate
+118,Chatswood,2602/69 Albert Avenue,Apartment,1,1,0,,,828000,2026-06-05,Private treaty,,,,,DiJones - Chatswood
+119,Chatswood,4/209 Victoria Avenue (rear of block),Apartment,2,1,1,1258.0,,1325000,2026-06-05,Private treaty,,,,,Ray White AY Realty Chatswood
+120,Chatswood,18/44 View Street,Apartment,2,1,1,108.0,,895000,2026-06-04,Private treaty,,,,,DiJones - Willoughby
+121,Chatswood,11 Septimus Street,House,4,2,3,392.0,,2980000,2026-05-30,Auction,,,,,Ray White AY Realty Chatswood
+122,Chatswood,202/2 Oliver Road,Apartment,2,2,1,98.0,,1100000,2026-05-29,Private treaty,,,,,Ray White AY Realty Chatswood
+123,Chatswood,9/40-44 Fullers Road,Apartment,3,3,2,,,1385888,2026-05-29,Private treaty,,,,,Shead Property
+124,Chatswood,202A Fullers Road,Semi,4,2,1,359.0,,2150000,2026-05-26,Auction,,,,,Chan Yahl
+125,Chatswood,5 Spencer Place,House,5,2,3,732.0,,3100000,2026-05-23,Auction,,,,,McGrath Lane Cove
+126,Chatswood,9/381 Mowbray Road West,Apartment,2,1,1,,,895000,2026-05-22,Auction,,,,,McGrath Lane Cove
+127,Penrith,29/221 Stafford Street,House,3,1,1,,,700000,2026-09-18,Private treaty,,,,,
+128,Penrith,38/42-44 Lethbridge Street,Apartment,1,1,1,,,435000,2026-09-18,Private treaty,,,,,Ausrealty - Earlwood
+129,Penrith,509/60 Lord Sheffield Circuit,Apartment,2,2,1,118.0,,735000,2026-09-05,Private treaty,,,,,Morton Penrith
+130,Penrith,306/101A Lord Sheffield Circuit,Apartment,1,1,1,83.0,,495000,2026-09-05,Private treaty,,,,,Morton Penrith
+131,Penrith,11/282 High Street,Apartment,2,1,1,,,505000,2026-09-04,Private treaty,,,,,
+132,Penrith,6/5 lemongrove road,Apartment,1,1,1,,,365000,2026-09-04,Private treaty,,,,,
+133,Penrith,702/81B Lord Sheffield Circuit,Apartment,2,2,1,105.0,,635000,2026-09-04,Private treaty,,,,,Morton Penrith
+134,Penrith,3/11-13 Hemmings Street,Apartment,2,1,1,,,475000,2026-09-02,Private treaty,,,,,Response Real Estate Penrith
+135,Penrith,40 Bel-air Road,House,3,1,2,562.0,,960000,2026-08-31,Private treaty,,,,,
+136,Penrith,25/132 Lethbridge Street,Apartment,2,1,1,4953.0,,460000,2026-08-28,Private treaty,,,,,Ray White (United Group)
+137,Penrith,17/171 Derby Street,Apartment,2,1,1,2364.0,,440000,2026-08-28,Private treaty,,,,,
+138,Penrith,G03/115 Derby Street,Apartment,1,1,1,84.0,,530000,2026-08-28,Private treaty,,,,,Morton Penrith
+139,Penrith,10/53-55 King Street,Apartment,2,1,1,,,452000,2026-08-27,Private treaty,,,,,Ray White (United Group)
+140,Penrith,629/1-39 Lord Sheffield Circuit,Apartment,2,2,1,,,600000,2026-08-27,Private treaty,,,,,
+141,Penrith,9/13-19 Robert Street,Apartment,2,2,1,,,555000,2026-08-26,Private treaty,,,,,
+142,Penrith,212/2B Lord Sheffield Circuit,Apartment,0,1,0,47.0,,380000,2026-08-26,Private treaty,,,,,Morton Penrith
+143,Penrith,5/209 Derby Street,Apartment,2,1,1,,,450500,2026-08-24,Private treaty,,,,,
+144,Penrith,102/1 Markham Avenue,Apartment,2,2,1,,,600000,2026-08-22,Private treaty,,,,,
+145,Penrith,1/9-11 Thurston Street,Townhouse,3,1,1,,,720000,2026-08-19,Private treaty,,,,,
+146,Penrith,6 Karuah Road,House,3,1,1,696.0,,900000,2026-08-18,Private treaty,,,,,
+147,Penrith,10/83-85 Union Road,Apartment,2,2,1,,,600000,2026-08-17,Private treaty,,,,,Dukes Estate Agents Penrith
+148,Penrith,1/29 Lethbridge Street,Apartment,2,2,1,,,567000,2026-08-14,Private treaty,,,,,
+149,Penrith,5/90-92 Cox Avenue,Townhouse,3,2,2,,,820000,2026-08-11,Private treaty,,,,,
+150,Penrith,203/1 Markham Avenue,Apartment,2,2,1,,,595000,2026-08-10,Private treaty,,,,,
+151,Penrith,178A Derby Street,House,3,3,2,299.0,,990000,2026-08-07,Private treaty,,,,,
+152,Penrith,28 Cooper Street,House,3,2,1,657.0,,1060000,2026-08-07,Private treaty,,,,,
+153,Penrith,405/2C Lord Sheffield Circuit,Apartment,1,1,1,79.0,,585000,2026-08-06,Private treaty,,,,,Morton Penrith
+154,Penrith,16 Burrows Street,House,2,2,1,,,870000,2026-08-04,Private treaty,,,,,
+155,Penrith,6/19-21 Thurston Street,Apartment,2,1,1,1751.0,,545000,2026-08-04,Private treaty,,,,,
+156,Penrith,110/115 Derby Street,Apartment,1,1,1,61.0,,530000,2026-08-04,Private treaty,,,,,Morton Penrith
+157,Penrith,94/37 Mulgoa Road,Apartment,2,1,0,28725.0,,325000,2026-07-31,Private treaty,,,,,
+158,Penrith,631/1-39 Lord Sheffield Circuit,Apartment,1,1,1,,,539000,2026-07-29,Private treaty,,,,,
+159,Penrith,8 Cudgee Road,House,4,2,1,390.0,,802000,2026-07-29,Private treaty,,,,,
+160,Penrith,13/72-76 Union Road,Apartment,2,1,1,,,585000,2026-07-27,Private treaty,,,,,Stanton & Taylor Real Estate
+161,Penrith,615/26A Lord Sheffield Circuit,Apartment,2,2,1,119.0,,800000,2026-07-26,Private treaty,,,,,REMAX Prestige
+162,Penrith,404/8-10 Fulton Street,Apartment,2,2,1,,,652000,2026-07-24,Private treaty,,,,,
+163,Penrith,7/209 Derby Street,Apartment,2,1,1,,,502500,2026-07-24,Private treaty,,,,,
+164,Penrith,3A Rodley Avenue,Duplex,3,2,1,,,995000,2026-07-23,Private treaty,,,,,
+165,Penrith,53/42-44 Lethbridge Street,Apartment,2,2,2,,,605000,2026-07-22,Private treaty,,,,,
+166,Penrith,107/60 Lord Sheffield Circuit,Apartment,1,1,1,79.0,,550000,2026-07-21,Private treaty,,,,,Morton Penrith
+167,Penrith,513/60 Lord Sheffield Circuit,Apartment,1,1,1,61.0,,549000,2026-07-21,Private treaty,,,,,Morton Penrith
+168,Penrith,33/132 LETHBRIDGE STREET,Apartment,2,1,1,,,470000,2026-07-21,Private treaty,,,,,REMAX Lifestyle Marketing
+169,Penrith,206/60 Lord Sheffield Circuit,Apartment,2,2,1,109.0,,740000,2026-07-20,Private treaty,,,,,Morton Penrith
+170,Penrith,301/101D Lord Sheffield Circuit,Apartment,2,2,1,,,605000,2026-07-20,Private treaty,,,,,
+171,Penrith,3/17-19 Haynes Street,Apartment,1,1,1,,,449000,2026-07-17,Private treaty,,,,,
+172,Penrith,3 Hornseywood Avenue,House,3,1,2,602.0,,1100000,2026-07-15,Private treaty,,,,,
+173,Penrith,6/171-173 Derby Street,Apartment,2,1,1,,,470000,2026-07-14,Private treaty,,,,,McGrath Strathfield
+174,Penrith,7/53-55 King Street,Apartment,2,1,1,1257.0,,490000,2026-07-12,Private treaty,,,,,
+175,Penrith,510/10 Aviators Way,Apartment,2,2,1,115.0,,628000,2026-07-10,Private treaty,,,,,Morton Penrith
+176,Penrith,G05/10B Premiership Close,Apartment,1,1,1,84.0,,680000,2026-07-10,Private treaty,,,,,Morton Penrith
+177,Penrith,105/81C Lord Sheffield Circuit,Apartment,2,2,1,149.0,,675000,2026-07-10,Private treaty,,,,,Morton Penrith
+178,Penrith,36 Pelsart Avenue,House,3,1,1,632.0,,1050000,2026-07-08,Private treaty,,,,,
+179,Penrith,704/81A Lord Sheffield Circuit,Apartment,2,2,1,93.0,,645000,2026-07-06,Private treaty,,,,,Morton Penrith
+180,Penrith,C716/1-39 Lord Sheffield Circuit,Apartment,2,2,1,87.0,,647500,2026-07-06,Private treaty,,,,,Morton Penrith
+181,Penrith,307/81B Lord Sheffield Circuit,Apartment,2,2,1,,,640000,2026-07-06,Private treaty,,,,,
+182,Penrith,13/1-2 The Crescent,Apartment,2,1,1,2016.0,,420000,2026-07-03,Auction,,,,,
+183,Penrith,9/144-148 High Street,Apartment,2,2,1,4135.0,,610000,2026-07-03,Private treaty,,,,,
+184,Penrith,608/26B Lord Sheffield Circuit,Apartment,2,2,1,,,751000,2026-07-02,Private treaty,,,,,REMAX Lifestyle Marketing
+185,Penrith,704/8 Aviators Way,Apartment,2,2,1,100.0,,690000,2026-07-01,Private treaty,,,,,Morton Penrith
+186,Penrith,9/57-59 King Street,Townhouse,2,1,1,,,620000,2026-07-01,Private treaty,,,,,Stanton & Taylor Real Estate
+187,Penrith,29 Sydney Smith Drive,House,4,2,2,289.0,,1210000,2026-06-30,Private treaty,,,,,
+188,Penrith,75 Empire Circuit,House,3,2,1,212.0,,1000000,2026-06-26,Private treaty,,,,,
+189,Penrith,12/25 Haynes Street,Apartment,2,1,1,,,476500,2026-06-25,Private treaty,,,,,
+190,Penrith,31 & 31A Bel-air Road,House,5,4,2,558.0,,1500000,2026-06-25,Private treaty,,,,,REMAX Prestige
+191,Penrith,302/4B Retreat Drive,Apartment,3,4,4,,,2275000,2026-06-24,Private treaty,,,,,Merrick Property Group
+192,Penrith,38 Brown Street,House,3,1,2,588.0,,1025000,2026-06-19,Private treaty,,,,,
+193,Penrith,108/29-31 Lethbridge Street,Apartment,3,2,2,,,775000,2026-06-19,Private treaty,,,,,
+194,Penrith,17 Hornseywood Avenue,House,3,1,1,575.0,,1055000,2026-06-18,Private treaty,,,,,Stanton & Taylor Real Estate
+195,Penrith,2/69 Glebe Place,Townhouse,3,1,1,624.0,,800000,2026-06-18,Private treaty,,,,,
+196,Penrith,74 Nepean Avenue,House,5,6,2,910.0,,2990000,2026-06-17,Private treaty,,,,,Merrick Property Group
+197,Penrith,14/18-24 Higgins Street,Apartment,3,2,2,,,825000,2026-06-17,Private treaty,,,,,The Agency
+198,Penrith,37/132 LETHBRIDGE STREET,House,2,1,1,,,485000,2026-06-17,Private treaty,,,,,REMAX Lifestyle Marketing
+199,Penrith,54/40-50 Union Road,Apartment,2,2,1,,,625000,2026-06-16,Private treaty,,,,,
+200,Penrith,106/25-31 Hope Street,Apartment,1,1,1,102.0,,470000,2026-06-15,Private treaty,,,,,
+201,Penrith,215/25-31 Hope Street,Apartment,2,2,1,,,602500,2026-06-15,Private treaty,,,,,

@@ -1,0 +1,11 @@
+suburb,address,type,bed,bath,car,land_sqm,my_estimate,llm_estimate
+Bondi,3/19 Imperial Avenue,Apartment,3,2,1,,,
+Bondi,5211/34 Wellington Street,Apartment,3,2,2,,,
+Bondi,1/8 Flood Street,Apartment,3,2,1,,,
+Bondi,15/240-242 Bondi Road,Apartment,2,1,1,,,
+Bondi,15 Ewell Street,House,3,1,1,,,
+Chatswood,8/236 Victoria Avenue,Apartment,3,2,2,,,
+Chatswood,5 Hopetoun Avenue,House,2,1,1,,,
+Penrith,629/1-39 Lord Sheffield Circuit,Apartment,2,2,1,,,
+Penrith,40 Bel-air Road,House,3,1,2,562.0,,
+Penrith,36 Pelsart Avenue,House,3,1,1,632.0,,

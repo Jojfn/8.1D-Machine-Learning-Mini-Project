@@ -1,0 +1,13 @@
+You are valuing recently sold Sydney properties. For each, give a single estimated
+sale price in AUD and nothing else.
+
+1. Bondi - Apartment, 3 bed, 2 bath, 1 car. Sold April 2026.
+2. Bondi - Apartment, 3 bed, 2 bath, 2 car. Sold February 2026.
+3. Bondi - Apartment, 3 bed, 2 bath, 1 car. Sold March 2026.
+4. Bondi - Apartment, 2 bed, 1 bath, 1 car. Sold May 2026.
+5. Bondi - House, 3 bed, 1 bath, 1 car. Sold March 2026.
+6. Chatswood - Apartment, 3 bed, 2 bath, 2 car. Sold July 2026.
+7. Chatswood - House, 2 bed, 1 bath, 1 car. Sold July 2026.
+8. Penrith - Apartment, 2 bed, 2 bath, 1 car. Sold August 2026.
+9. Penrith - House, 3 bed, 1 bath, 2 car, 562 sqm land. Sold August 2026.
+10. Penrith - House, 3 bed, 1 bath, 1 car, 632 sqm land. Sold July 2026.

@@ -1,0 +1,4 @@
+property_id,suburb,address,property_type,bedrooms,bathrooms,car_spaces,land_size_sqm,internal_area_sqm,sale_price,sale_date,sale_method,days_on_market,distance_to_station_km,agent_description,listing_url
+1,Bondi,EXAMPLE - 12 Sample St,Apartment,2,1,1,,86,1850000,2025-03-15,Auction,28,0.9,"Renovated two-bedroom apartment with district views, open-plan living and a north-facing balcony. Moments to Bondi Beach.",https://www.domain.com.au/example-1
+2,Chatswood,EXAMPLE - 34 Sample Rd,House,4,2,2,556,210,3120000,2025-04-02,Auction,21,1.4,"Immaculate family home on a level block in the Chatswood Public School catchment. Walk to Westfield and rail.",https://www.domain.com.au/example-2
+3,Penrith,EXAMPLE - 7 Sample Ave,House,3,1,1,601,124,742000,2025-02-20,Private treaty,45,2.1,"Neat three-bedroom home on a generous block with side access. Original condition, scope to add value.",https://www.domain.com.au/example-3
