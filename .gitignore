@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Deakin assessment material - not mine to republish
+SIT720-8.1D.pdf
+
+# Working copy of the report; the PDF is the submitted artefact
+SIT720-8.1D-Report.docx
